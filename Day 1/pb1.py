@@ -16,3 +16,5 @@ for i in range(len(list1)):
     sol += abs(list1[i] - list2[i])
 
 print(sol)
+
+infile.close()

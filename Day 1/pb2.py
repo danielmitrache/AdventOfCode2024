@@ -14,3 +14,5 @@ for locationID in list1:
     sol += locationID * cnt
 
 print(sol)
+
+infile.close()
